@@ -39,7 +39,7 @@
 ![Django](https://img.shields.io/badge/-Django-blue?style=for-the-badge&logo=django)
 ![Python](https://img.shields.io/badge/-Python-green?&style=for-the-badge&logo=python&ogoColor=white)
 
-![VIM](https://img.shields.io/badge/-Pycharm-019733?style=for-the-)
+![VIM](https://img.shields.io/badge/-Vim-019733?style=for-the-badge&logo=vim)
 ![VSCode](https://img.shields.io/badge/-vscode-007ACC?style=for-the-badge&logo=visual-studio-code)
 ![Git](https://img.shields.io/badge/git%20-%23F05032.svg?&style=for-the-badge&logo=git&logoColor=white)
 ![Linux](https://img.shields.io/badge/-linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)

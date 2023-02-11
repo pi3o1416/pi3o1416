@@ -3,12 +3,10 @@
 <p align="center">️<small>Enthusiast learner and explorer. Full time developer.</small></p>
 
 <p align="center">
-<!--
-<a href="https://github.com/rafathossain/rafathossain/blob/master/LICENCE">
-<img alt="Licence" src="https://img.shields.io/github/license/rafathossain/rafathossain?color=brightgreen&label=LICENCE&logo=MIT"/>
+<a href="https://github.com/pi3o1416/pi3o1416/blob/master/LICENSE">
+<img alt="License" src="https://img.shields.io/github/license/pi3o1416/pi3o1416?color=brightgreen&label=LICENSE&logo=MIT"/>
 </a>
-<img alt="Last Commit" src="https://img.shields.io/github/last-commit/rafathossain/rafathossain?logo=markdown&label=LAST+UPDATE&color=29bf12&style=flat">
--->
+<img alt="Last Commit" src="https://img.shields.io/github/last-commit/pi3o1416/pi3o1416?logo=markdown&label=LAST+UPDATE&color=29bf12&style=flat">
 </p>
 </br>
 <img align="right" alt="Coding" width="400" src="https://media.giphy.com/media/Y4ak9Ki2GZCbJxAnJD/giphy.gif">
